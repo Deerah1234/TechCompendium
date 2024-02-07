@@ -2,7 +2,7 @@
 
 "Mastering GitHub Pages Deployment with React.js and Vite" is a concise 5-minute read focusing on the art of deploying your React application to GitHub.
 
-## Summary
+## 🔍 Summary
 
 Unlock the secrets of GitHub Pages deployment in this article. Here's a sneak peek into what you'll discover:
 
@@ -18,7 +18,7 @@ Unlock the secrets of GitHub Pages deployment in this article. Here's a sneak pe
 
 6. ⚙️ Run `npm run deploy`, check the settings > pages, and witness your app seamlessly deployed.
 
-## Links
+## 🔗 Links
 
 Find the full story here:
 

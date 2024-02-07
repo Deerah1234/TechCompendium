@@ -7,7 +7,6 @@ Test Your Knowledge is a straightforward application built with React.js, design
 -   [Technologies](#Technologies)
 -   [How can it be improved?](#How-can-it-be-improved?)
 -   [Running the Project](#Running-the-Project)
--   [Video](#Video)
 
 ## 🛠️ Technologies
 
@@ -39,5 +38,3 @@ To run the project in your local environment, follow these steps:
 2. Run `npm install` or `yarn` in the project directory to install the required dependencies.
 3. Run `npm run dev` or `yarn dev` to get the project started.
 4. Open http://localhost:5173/testyrkno (or the address shown in your console) in your web browser to view the app.
-
-## 🍿 Video
