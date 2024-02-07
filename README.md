@@ -6,7 +6,7 @@ Welcome to TechCompendium, your gateway to a curated collection of tech-related 
 
 ## 📚 What's Inside?
 
--   [📚 Article 1](link-to-article-1): Mastering GitHub Pages by Deploying to It
+-   [📚 Article 1](https://0xdeerah.medium.com/mastering-github-pages-a-step-by-step-guide-for-deploying-your-react-app-with-vite-d31b6669122b): Mastering GitHub Pages by Deploying to It
 
 ## 🛠️ How to Use This Repository
 
