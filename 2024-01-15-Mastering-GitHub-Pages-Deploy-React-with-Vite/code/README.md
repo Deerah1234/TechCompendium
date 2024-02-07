@@ -4,9 +4,9 @@ Test Your Knowledge is a straightforward application built with React.js, design
 
 ## 🧵 Contents
 
--   [Technologies](#Technologies)
--   [How can it be improved?](#How-can-it-be-improved?)
--   [Running the Project](#Running-the-Project)
+-   [Technologies](https://github.com/Deerah1234/TechCompendium/blob/main/2024-01-15-Mastering-GitHub-Pages-Deploy-React-with-Vite/code/README.md#%EF%B8%8F-technologies)
+-   [How can it be improved?](https://github.com/Deerah1234/TechCompendium/blob/main/2024-01-15-Mastering-GitHub-Pages-Deploy-React-with-Vite/code/README.md#-how-can-it-be-improved-1)
+-   [Running the Project](https://github.com/Deerah1234/TechCompendium/blob/main/2024-01-15-Mastering-GitHub-Pages-Deploy-React-with-Vite/code/README.md#%EF%B8%8F-running-the-project)
 
 ## 🛠️ Technologies
 
